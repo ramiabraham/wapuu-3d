@@ -1,5 +1,7 @@
 # Wapuu 3D
-Source files for 3d wapuu object.
+Source files for 3d Wapuu
+
+License: GPL
 
 Contents:
 - .obj file
