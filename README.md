@@ -9,4 +9,4 @@ Contents:
 
 Example:
 
-![Picture of 3D Wapuu render](https://www.dropbox.com/s/o7kbuzt23ja045i/wapuu-3d-example.gif? "Wapuu object, 2 source lights in current camera view")
+![Picture of 3D Wapuu render](https://www.dropbox.com/s/o7kbuzt23ja045i/wapuu-3d-example.gif "Wapuu object, 2 source lights in current camera view")
