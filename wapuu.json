@@ -83,7 +83,7 @@
 			{
 				"uuid": "F2A638EE-2418-4FB3-8AB4-79D91C0E84A5",
 				"type": "Mesh",
-				"name": "Sphere001",
+				"name": "WPBall",
 				"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
 				"geometry": "2628C97F-3687-4222-82C3-B8F3411985BA",
 				"material": "11AB48B0-02D7-4B3A-BEA9-5844F1B48D13"
@@ -91,7 +91,7 @@
 			{
 				"uuid": "43FC7DD2-2708-458B-9892-007C785A024B",
 				"type": "Mesh",
-				"name": "Wappu",
+				"name": "Wapuu",
 				"matrix": [1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1],
 				"geometry": "50209885-0BD4-47CC-9A77-9E98011A4265",
 				"material": "A964C2E9-CCD7-4375-BE66-3A85A89102E9"
